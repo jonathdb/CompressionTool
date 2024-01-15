@@ -1,0 +1,15 @@
+c:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.AssemblyInfoInputs.cache
+c:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.AssemblyInfo.cs
+c:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.csproj.CoreCompileInputs.cache
+c:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.sourcelink.json
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\bin\Debug\net8.0\CompessionTool.exe
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\bin\Debug\net8.0\CompessionTool.deps.json
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\bin\Debug\net8.0\CompessionTool.runtimeconfig.json
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\bin\Debug\net8.0\CompessionTool.dll
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\bin\Debug\net8.0\CompessionTool.pdb
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.dll
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\refint\CompessionTool.dll
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.pdb
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\CompessionTool.genruntimeconfig.cache
+C:\Users\jonat\Documents\Github\CompressionTool\CompessionTool\obj\Debug\net8.0\ref\CompessionTool.dll
